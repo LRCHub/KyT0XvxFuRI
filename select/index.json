@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "たーのしーたーのしーたーのしー！",
+  "base_artist": "コツメカワウソ",
+  "createdAt": "2025-12-29T05:53:07.066261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "たーのしーたーのしーたーのしー！",
+      "artist": "コツメカワウソ",
+      "has_synced": false,
+      "path": "select/01_たーのしーたーのしーたーのしー!_コツメカワウソ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たーのしーたーのしーたーのしー!",
+      "artist": "コツメカワウソ",
+      "has_synced": false,
+      "path": "select/pl_01_たーのしーたーのしーたーのしー!_コツメカワウソ.txt"
+    }
+  ]
+}
